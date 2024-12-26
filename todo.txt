@@ -1,0 +1,23 @@
+Backend Tasks:
+- [x] Set up CodeIgniter 3 environment
+- [x] Configure database connection
+- [x] Create users table
+- [x] Enable CORS headers
+- [x] Create Api controller with users method
+- [x] Create User_model for database operations
+- [x] Test API endpoint with sample data
+
+Frontend Tasks:
+- [x] Set up React + TypeScript environment
+- [x] Configure environment variables
+- [x] Create UserTable component
+  - [x] Define table structure with columns (ID, Name, Email, Created At)
+  - [x] Style table using Tailwind CSS
+- [x] Implement data fetching
+  - [x] Set up fetch for API calls
+  - [x] Create loading state using useState
+  - [x] Implement error handling
+- [x] Add refresh button functionality
+  - [x] Create button component
+  - [x] Implement refresh function
+- [x] Test frontend integration with backend API
